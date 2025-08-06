@@ -16,3 +16,4 @@ This Streamlit web application allows users to explore bikeshare data for three 
 
 ---
 ⚠️ Note: GitHub Copilot was used during the development of this project for code suggestions. All suggestions were reviewed, understood, and customized to meet the project requirements.
+A web-app has been deployed : https://us-bikeshare-data-explorer-in5kxhmxek9bg34hkeusks.streamlit.app/
