@@ -15,3 +15,4 @@ This Streamlit web application allows users to explore bikeshare data for three 
 - Option to preview raw data with as many rows as needed using a slider
 
 ---
+⚠️ Note: GitHub Copilot was used during the development of this project for code suggestions. All suggestions were reviewed, understood, and customized to meet the project requirements.
