@@ -62,7 +62,7 @@ def plot_gender_pie(df):
         return None
 
 
-MONTHS = ['All', 'January', 'February', 'March', 'April', 'May', 'June']
+MONTHS = ['All', 'January', 'February', 'March', 'April', 'May', 'June','July','August','September','October','November','December']
 DAYS = ['All', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 # -----------------------------
@@ -172,4 +172,3 @@ if st.checkbox("Show raw data"):
             df = load_data(city, month, day)
             num_rows = st.slider("Select number of rows to view", min_value=5, max_value=50, value=5)
             st.write(df.head(num_rows))
-
